@@ -6,9 +6,9 @@ const port = process.env.PORT || 5000;
 
 let projectsData = [
     {
-        name: 'Trade Me',
-        html_url: 'http://preview.trademe.co.nz',
-        description: 'I helped people buy stuff'
+        name: 'Portfolio',
+        html_url: 'https://forrest-wilson.com',
+        description: 'This is my custom portfolio'
     }
 ];
 
