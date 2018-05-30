@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/forrest-wilson/sot-full-stack-javascript#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2"
   }
 }
