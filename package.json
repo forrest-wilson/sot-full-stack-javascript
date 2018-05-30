@@ -1,0 +1,23 @@
+{
+  "name": "sot-full-stack-javascript",
+  "version": "1.0.0",
+  "description": "Summer of Tech full stack JavaScript Masterclass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrest-wilson/sot-full-stack-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forrest-wilson/sot-full-stack-javascript/issues"
+  },
+  "homepage": "https://github.com/forrest-wilson/sot-full-stack-javascript#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
